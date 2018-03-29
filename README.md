@@ -4,3 +4,5 @@ A French-Japanese dictionary for Linux with minimal Openmotif Interface (should 
 Check the makefile for what libraries should be downloaded on your machine.
 
 Start the executable
+
+![Exemple](https://raw.githubusercontent.com/solalgaillard/dico_fra_jap--C-/master/dico_jap_fra.png)
