@@ -1,7 +1,7 @@
 # dico_fra_jap--C-
 A French-Japanese dictionary for Linux with minimal Openmotif Interface (should have used QT...)
 
-Check the makefile for what libraries should be downloaded on your machine.
+Check the makefile to see what libraries should be downloaded on your machine.
 
 Start the executable
 
